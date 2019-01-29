@@ -4,7 +4,7 @@
 // Copyright (c) 2015-2017 The PIVX developers
 // Copyright (c) 2018 LightPayCoin developers
 // Copyright (c) 2018 The Beacon developers
-// Implemented https://github.com/phoreproject/Phore/pull/133 (Fix block spam)
+// Implemented https://github.com/phoreproject/Phore/pull/133 (Fix block spam) (Temp)
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
